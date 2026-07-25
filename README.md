@@ -7,7 +7,9 @@
 
 A playbook for leaders and boards responsible for AI adoption across an organisation — built around the two things that actually determine whether it sticks: closing the gap between the leadership's stage and the workforce's, and being honest about where the saved time goes.
 
-Most AI strategy decks address what people should *know*. Adoption stalls on what people *believe about themselves and whether it's safe to try*. This playbook is about the levers that move that — visible leadership, permission, and a champion cascade — plus the metrics that keep the board focused on value, not activity.
+Many AI strategy decks address what people should *know*. Adoption often stalls on what people *believe about themselves and whether it's safe to try*. This playbook is about the levers that move that — visible leadership, permission, and a champion cascade — plus the governance and metrics that keep the board focused on value, risk, and decisions rather than activity.
+
+Last reviewed: 2026-07-24. See [sources and verification notes](sources.md).
 
 ## Contents
 
@@ -16,7 +18,10 @@ Most AI strategy decks address what people should *know*. Adoption stalls on wha
 - [The six stages, at org level](#the-six-stages-at-org-level)
 - [Start here](#start-here)
 - [The accountability question](#the-accountability-question)
+- [Templates](#templates)
+- [Related resources](#related-resources)
 - [Where this came from](#where-this-came-from)
+- [Scope](#scope)
 - [Free vs done-with-you](#free-vs-done-with-you)
 - [Part of a series](#part-of-a-series)
 
@@ -36,25 +41,50 @@ Every playbook in this series shares one diagnosis of where a person or organisa
 
 > Nomad → Observer → Dabbler → Integrator → **Architect** → Innovator
 
-At org level the stall is usually the **leader–workforce gap**, and what closes it isn't more strategy — it's visible leader use, psychological safety, and a champion cascade. Full cut in **[framework/six-stages-for-leaders.md](framework/six-stages-for-leaders.md)**. Canonical model + stage locator: **[ai-adoption-model](https://github.com/VictorOsondu/ai-adoption-model)**.
+At org level the stall is often the **leader–workforce gap**, and what closes it is rarely strategy alone. Visible leader use, psychological safety, champion networks, and clear governance all matter. Full cut in **[framework/six-stages-for-leaders.md](framework/six-stages-for-leaders.md)**. Canonical model + stage locator: **[ai-adoption-model](https://github.com/VictorOsondu/ai-adoption-model)**.
 
 ## Start here
 
 1. **Diagnose the gap.** Run the [readiness assessment](https://github.com/VictorOsondu/ai-adoption-toolkit/blob/main/assessment/readiness-assessment.md) at org level, and note where leadership sits vs the workforce.
 2. **Brief the board honestly.** Use the [board briefing & metrics template](templates/board-briefing-and-metrics.md) — including the metric everyone skips.
-3. **Name your champions.** One active champion per team is the highest-leverage, lowest-cost move you can make.
+3. **Name your champions.** One active champion per team is a practical low-cost move when they have time, permission, and clear guardrails.
 
 ## The accountability question
 
 The metric leaders skip: **where does the saved time go?** If AI recovers hours and they refill with busywork, you've funded running faster in place. The [board briefing & metrics](templates/board-briefing-and-metrics.md) puts that question — plus a few leading indicators and the vanity metrics to ignore — in front of the people funding the programme.
 
+## Templates
+
+- [Board briefing and adoption metrics](templates/board-briefing-and-metrics.md)
+- [AI leadership principles](templates/ai-leadership-principles.md)
+- [AI risk appetite statement](templates/ai-risk-appetite-statement.md)
+- [Leader AI decision log](templates/leader-ai-decision-log.md)
+- [Champion cascade plan](templates/champion-cascade-plan.md)
+- [Executive rollout guide](templates/executive-rollout-guide.md)
+- [Executive AI communications cascade](templates/executive-communications-cascade.md)
+- [AI investment case](templates/ai-investment-case.md)
+- [High-risk use escalation](templates/high-risk-use-escalation.md)
+
+## Related resources
+
+- [AI Governance Kit](https://github.com/VictorOsondu/ai-governance-kit)
+- [AI-Era Data & Privacy Playbook](https://github.com/VictorOsondu/ai-data-privacy-playbook)
+- [AI Incident & Failure Library](https://github.com/VictorOsondu/ai-incident-library)
+- [AI Adoption for SMBs](https://github.com/VictorOsondu/ai-adoption-smb)
+- [AI Adoption for Professionals](https://github.com/VictorOsondu/ai-adoption-professional)
+- [AI Adoption Toolkit](https://github.com/VictorOsondu/ai-adoption-toolkit)
+
 ## Where this came from
 
-The methodology draws on AI Tutorium's organisational training and rollout work — the champion-cascade model and the two-week rollout behind the [AI Literacy Compliance Pack](https://aitutorium.com) — reframed for the board and the executive team. `practitioner-built`; a `field-tested` badge is reserved for a named, completed organisational rollout.
+The methodology draws on AI Tutorium's organisational training and rollout work — the champion-cascade model and the two-week rollout behind the [AI Literacy Compliance Pack](https://aitutorium.com) — reframed for the board and the executive team. `practitioner-built`; a `field-tested` badge is reserved for a named, completed organisational rollout. External anchors and related repos are listed in [sources.md](sources.md).
+
+## Scope
+
+This is leadership guidance, not legal, data-protection, employment, insurance, regulatory, or board-duty advice. Use it as a starting point, then align it with your governance structure, sector duties, jurisdiction, client contracts, insurer expectations, risk appetite, DPO/legal/security input, and applicable AI obligations.
 
 ## Free vs done-with-you
 
-The playbook, framework, and board templates are free to use and adapt under CC BY 4.0. Board advisory, a whole-organisation rollout with the champion cascade, and the compliance and certification layer are the paid work [AI Tutorium](https://aitutorium.com) does.
+The playbook, framework, and board templates are free to use and adapt under CC BY 4.0. Board advisory, a whole-organisation rollout with the champion cascade, and governance evidence such as policy, training records, and rollout support are the paid work [AI Tutorium](https://aitutorium.com) does.
 
 ## Part of a series
 

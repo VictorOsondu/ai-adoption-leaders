@@ -2,6 +2,8 @@
 
 The [six-stage model](https://github.com/VictorOsondu/ai-adoption-model) sorts people by how AI adoption *feels*, not by tools deployed. As a leader you carry two jobs at once: your *own* stage, and moving the *organisation* through its stages. The two are different problems, and confusing them is the most common leadership mistake in AI adoption.
 
+Last reviewed: 2026-07-24. See [sources and verification notes](../sources.md).
+
 ## Your organisation's stage — and the gap that stalls it
 
 | Stage | At org level it looks like… | The leadership move |
@@ -17,15 +19,15 @@ The [six-stage model](https://github.com/VictorOsondu/ai-adoption-model) sorts p
 
 ## What actually moves an organisation (not what leaders reach for)
 
-Leaders reach for the measurable and scalable — more training, a strategy deck, a company-wide tool — because they fit a slide. Those address what people *know*. Adoption stalls on what people *believe about themselves and whether it's safe to try*. What moves it:
+Leaders often reach for the measurable and scalable — more training, a strategy deck, a company-wide tool — because they fit a slide. Those address what people *know*. Adoption can still stall on what people *believe about themselves and whether it's safe to try*. What helps move it:
 
 - **Visible leader use.** If you sponsor AI for everyone but never use it yourself, the message is that it's for other people. Use it, visibly.
 - **Permission and psychological safety.** People adopt when it's safe to try something messy and safe to ask. A blame-free question channel beats another mandate.
-- **A champion cascade.** Named people, one per team, a stage ahead of their peers — the single most reliable mechanism for spreading adoption without a big budget. Peers move peers.
+- **A champion cascade.** Named people, one per team, a stage ahead of their peers. It works best when champions have time, permission, escalation routes, and clear governance boundaries.
 
 ## The ICE Method, at org level
 
-- **Improve** — the recurring work across functions: reporting, comms, admin, first drafts. Fastest ROI, lowest risk. Prove value here first.
+- **Improve** — non-sensitive recurring work across functions: internal reporting drafts, comms drafts, admin, summaries, and first drafts. Usually the fastest route to visible value when data rules and human review are clear.
 - **Create** — capabilities the organisation lacked: knowledge bases, self-serve tools, new service lines.
 - **Educate** — literacy and safe use across the workforce. In a regulated or client-serving org this is the difference between a productivity gain and an incident, and it's an accountability the board owns.
 
