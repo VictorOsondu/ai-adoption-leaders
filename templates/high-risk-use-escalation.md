@@ -38,6 +38,7 @@ Escalate if AI may:
 
 - named accountable owner
 - data and privacy review
+- Data Processing Agreement in place, covering the AI features specifically
 - legal or professional review where needed
 - security review for connected systems or agents
 - human oversight

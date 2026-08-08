@@ -31,6 +31,13 @@ Use the shared [AI Programme Owner Charter](https://github.com/VictorOsondu/ai-a
 - Define public vs approved tool rules.
 - Set customer-facing review requirements.
 - Set incident reporting route.
+- Confirm a Data Processing Agreement is in place for every tool touching personal data.
+
+**On that last point.** Where your organisation decides what personal data is processed and why, you are the controller and the vendor is the processor, and the written contract between you is normally a Data Processing Agreement. The accountability is yours, not the vendor's, which is why this belongs in guardrails rather than in procurement's inbox.
+
+Two things leaders get caught by. Free and consumer tiers generally come with no DPA, so a tool that spread through the team informally is usually unapprovable on contract grounds alone, whatever its privacy policy says. And existing suppliers that have bolted AI onto an established product may be operating under paperwork that predates the AI features entirely, so an old DPA is not evidence that the new processing is covered.
+
+Full question set, including role mapping and sub-processors: [procurement due diligence](https://github.com/VictorOsondu/ai-governance-kit/blob/main/procurement/procurement-due-diligence.md).
 
 ## Phase 4: Pilot
 

@@ -2,6 +2,11 @@
 
 This project follows [Semantic Versioning](https://semver.org/).
 
+## [Unreleased]
+
+### Added
+- **Data Processing Agreements.** Added to Phase 3 guardrails in [templates/executive-rollout-guide.md](templates/executive-rollout-guide.md), with a note on the two traps: informally adopted consumer tools have no DPA to rely on, and an existing supplier's old DPA may predate its AI features. Added to Minimum Controls in [templates/high-risk-use-escalation.md](templates/high-risk-use-escalation.md).
+
 ## [0.1.0] — 2026-07-24
 
 ### Added
